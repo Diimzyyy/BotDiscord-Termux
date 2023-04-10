@@ -1,5 +1,9 @@
 # BotDiscord ( Termux Version )
 
+<p style="font-size:14px" align="right">
+<a href="https://t.me/dimzy_y" target="_blank"> My Telegram <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
+</p>
+
 ## Tutorial Install Step By Step
 - 1. Update Dan Instalasi
 ```
@@ -32,6 +36,7 @@ python bot.py
 
 ## Tambahan 
 - 1. Jika Untuk Claim Bot Faucet SUI Saya Menyarankan untuk mengganti ( time.sleep(2) Ada dibagian bawah , Angka 2 Silahkan anda Ganti dengan 600 )
+- 2. Jika Bingung Pm Telegram Saya
 
 ## Ambil Token Discord
 https://github.com/Diimzyyy/BotDiscord-Termux/blob/main/Token%20Discord.md
