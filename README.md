@@ -32,3 +32,6 @@ python bot.py
 
 ## Tambahan 
 - 1. Jika Untuk Claim Bot Faucet SUI Saya Menyarankan untuk mengganti ( time.sleep(2) Ada dibagian bawah , Angka 2 Silahkan anda Ganti dengan 600 )
+
+## Ambil Token Discord
+https://github.com/Diimzyyy/BotDiscord-Termux/blob/main/Token%20Discord.md
