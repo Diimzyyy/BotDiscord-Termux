@@ -35,3 +35,6 @@ python bot.py
 
 ## Ambil Token Discord
 https://github.com/Diimzyyy/BotDiscord-Termux/blob/main/Token%20Discord.md
+
+## Tutorial Bot 24 Jam Tetap jalan Meskipun Hp Off
+https://github.com/Diimzyyy/BotDiscord-Termux/blob/main/Tutorial%20Install%20Screen.md
