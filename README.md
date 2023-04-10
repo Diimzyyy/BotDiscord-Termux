@@ -1,1 +1,34 @@
-# BotDiscord-Termux
+# BotDiscord ( Termux Version )
+
+## Tutorial Install Step By Step
+- 1. Update Dan Instalasi
+```
+pkg install git && pkg install python & pkg install openssl
+```
+- 2. Ambil File Github
+```
+git clone https://github.com/Diimzyyy/DiscordMultipleBot
+```
+- 3. Update & Upgrade Instalasi
+```
+apt update && apt upgrade
+```
+- 4. Masuk Ke File Directory
+```
+cd DiscordMultipleBot
+```
+- 5. Install Request & Colorama
+```
+pip install requests colorama
+```
+- 6. Silahkan Edit Bagian : Channel , Text & Token
+```
+nano bot.py
+```
+- 7. Jika Sudah semua , tinggal jalankan saja
+```
+python bot.py
+```
+
+## Tambahan 
+- 1. Jika Untuk Claim Bot Faucet SUI Saya Menyarankan untuk mengganti ( time.sleep(2) Ada dibagian bawah , Angka 2 Silahkan anda Ganti dengan 600 )
